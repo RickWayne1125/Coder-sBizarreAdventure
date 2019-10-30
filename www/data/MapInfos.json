@@ -1,0 +1,16 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":809,"scrollY":474},
+{"id":2,"expanded":false,"name":"茶馆","order":2,"parentId":1,"scrollX":817,"scrollY":446},
+{"id":3,"expanded":true,"name":"maze1","order":3,"parentId":0,"scrollX":817,"scrollY":446},
+{"id":4,"expanded":true,"name":"木屋","order":4,"parentId":3,"scrollX":817,"scrollY":446},
+{"id":5,"expanded":true,"name":"level2","order":5,"parentId":4,"scrollX":817,"scrollY":446},
+{"id":6,"expanded":true,"name":"level1","order":12,"parentId":13,"scrollX":817,"scrollY":446},
+{"id":7,"expanded":false,"name":"start","order":10,"parentId":8,"scrollX":817,"scrollY":446.5},
+{"id":8,"expanded":true,"name":"第三关","order":6,"parentId":5,"scrollX":1111,"scrollY":1482},
+{"id":9,"expanded":false,"name":"level1.5","order":13,"parentId":6,"scrollX":817,"scrollY":446},
+{"id":10,"expanded":true,"name":"男厕所","order":7,"parentId":8,"scrollX":817,"scrollY":446},
+{"id":11,"expanded":true,"name":"女厕所","order":8,"parentId":8,"scrollX":817,"scrollY":446},
+{"id":12,"expanded":true,"name":"死亡","order":9,"parentId":11,"scrollX":817,"scrollY":446},
+{"id":13,"expanded":true,"name":"梦开始的地方","order":11,"parentId":3,"scrollX":817,"scrollY":446}
+]
